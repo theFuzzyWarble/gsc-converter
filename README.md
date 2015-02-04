@@ -1,2 +1,5 @@
-# gsc-converter
-[Gold Silver Copper]  MMO currency converter:: G/S = integer : C = decimal remainder :: e.g. 9458.64 = 94g58s64c
+Gold Silver Copper: an MMO currency converter
+G/S = integer : C = decimal remainder
+
+Usage:
+gsc(9458.64) returns "94g58s64c"
